@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Installation and device services",
   "main": "lib/installation.js",
-  "scripts": {
-    "test": "node_modules/.bin/grunt ci"
-  },
+//  "scripts": {
+//    "test": "node_modules/.bin/grunt ci"
+//  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jensoleg/devices"
